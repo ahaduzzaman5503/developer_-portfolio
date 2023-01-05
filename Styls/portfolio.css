@@ -98,3 +98,22 @@ main{
     margin-bottom: 30px;
     
 }
+
+.about_info_container{
+    display: flex; 
+    justify-content: space-around;
+    text-align: center;
+}
+
+.about_info{
+
+}
+
+.info_title{
+    font-style: 20px;
+    color: #757575;
+}
+
+.info_descripton{
+    
+}
